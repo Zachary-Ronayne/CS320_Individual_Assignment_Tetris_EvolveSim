@@ -1,0 +1,54 @@
+
+GridWidth: 10
+GridHeight: 21
+GridX: 10
+GridY: 10
+SquareSize: 18
+GridSize: 38
+GridLine: 1
+
+NumBrains: 100
+MaxMutability: 20.0
+WeightBiasScalar: 0.08
+MutabilityChange: 0.5
+StartConnections: 0.0
+RemoveNodeScalar: 0.05
+AddNodeChances: 3
+MinAddNodeChance: 1
+AddNodeScalar: 0.1
+AddNodeToOuterChance: 0.3
+CopyConnectionChances: 3
+MinCopyConnectionChance: 1
+CopyConnectionScalar: 0.65
+CopyConnectionFromInChance: 0.4
+ConnectionChances: 5
+MinConnectionChance: 1
+ConnectionScalar: 0.8
+AddConnectionProbability: 0.7
+
+SetSeed: False
+DistanceInputs: False
+RelativeNeuralInputs: False
+SplitNeuralInputs: True
+RelativeInputWidth: 20
+RelativeInputHeight: 42
+SetSeedGames: 1,1,
+RandomSeedGames: 100
+PieceSequenceIds:
+
+PieceSequenceRotate:
+
+RemoveOutlierFitness: 0.3
+RemoveFitnessType: 0
+UseFilledForFitness: True
+NumberNetMoves: 10
+FitnessPiece: 1.0
+FitnessLine: 3.0
+FitnessScalar: 10.0
+DispRefreshRate: 0
+MaxRows: 500
+PercentBestRemove: 0.15
+
+StickyGui: True
+FontSize: 7
+NumButtonCol: 25

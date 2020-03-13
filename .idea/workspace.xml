@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a9eb3a3-5e23-484c-89b2-eacd3a0375ae" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CS320_Individual_Assignment_Tetris_EvolveSim" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5763">
+              <caret line="339" column="24" selection-start-line="339" selection-start-column="24" selection-end-line="339" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuiController/SettingsGui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuiController/Menu/InitMenu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NeuralNet/NeuralNet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="688">
+              <caret line="948" column="34" lean-forward="true" selection-start-line="948" selection-start-column="34" selection-end-line="948" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SaveLoader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="145" column="26" lean-forward="true" selection-start-line="145" selection-start-column="26" selection-end-line="145" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SET_SE</find>
+      <find>setNetDisplay</find>
+      <find>resetGame</find>
+      <find>rate</find>
+      <find>= 5</find>
+      <find>readLine</find>
+      <find>NumConnections: 1</find>
+      <find>in nodes</find>
+      <find>NumConnections: 3</find>
+      <find>loop gen</find>
+      <find>STICK</find>
+      <find>moveWithPygame</find>
+      <find>font</find>
+      <find>pad</find>
+      <find>&quot;END&quot;</find>
+      <find>command</find>
+      <find>init</find>
+      <find>window</find>
+      <find>load</find>
+      <find>3,3245,4,5,</find>
+      <find>addNodeSca</find>
+      <find>setSeed</find>
+      <find>bool</find>
+      <find>piece</find>
+      <find>removeFitness</find>
+      <find>this value is</find>
+      <find>copyConne</find>
+      <find>fitnessLine</find>
+      <find>movewith</find>
+      <find>mutate</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/NeuralNet/NeuralNetHandeler.py" />
+        <option value="$PROJECT_DIR$/GuiControler/MenuHandlers/NetMenuHandler.py" />
+        <option value="$PROJECT_DIR$/GuiControler/MenuHandlers/CentralHandeler.py" />
+        <option value="$PROJECT_DIR$/GuiControler/MenuHandlers/TetrisMenuHandler.py" />
+        <option value="$PROJECT_DIR$/GuiControler/MainGui.py" />
+        <option value="$PROJECT_DIR$/GuiControler/Menu/Menu.py" />
+        <option value="$PROJECT_DIR$/BackgroundThread.py" />
+        <option value="$PROJECT_DIR$/GuiControler/Menu/InitMenu.py" />
+        <option value="$PROJECT_DIR$/TetrisGame/TetrisHandler.py" />
+        <option value="$PROJECT_DIR$/GuiControler/GameGui.py" />
+        <option value="$PROJECT_DIR$/GuiControler/Menu/SimMenu.py" />
+        <option value="$PROJECT_DIR$/GuiControler/GraphDisplayController.py" />
+        <option value="$PROJECT_DIR$/GuiControler/GraphHandler.py" />
+        <option value="$PROJECT_DIR$/TetrisGame/CentralHandeler.py" />
+        <option value="$PROJECT_DIR$/GuiControler/Menu/MenuHandlers/SimMenuHandler.py" />
+        <option value="$PROJECT_DIR$/GuiControler/Graph/Graph.py" />
+        <option value="$PROJECT_DIR$/GuiControler/Graph/GraphHandler.py" />
+        <option value="$PROJECT_DIR$/SettingsLoader.py" />
+        <option value="$PROJECT_DIR$/MergeSort.py" />
+        <option value="$PROJECT_DIR$/saves/rand seed 2000 nets.txt" />
+        <option value="$PROJECT_DIR$/saves/rand seed 1000 nets low mut.txt" />
+        <option value="$PROJECT_DIR$/saves/rand seed 800 nets 10 games.txt" />
+        <option value="$PROJECT_DIR$/saves/rand seed 300 nets.txt" />
+        <option value="$PROJECT_DIR$/saves/rand seed 10 games lowest fitness sorted.txt" />
+        <option value="$PROJECT_DIR$/saves/rand seed rel inputs 10 games.txt" />
+        <option value="$PROJECT_DIR$/saves/long 4 set seeds.txt" />
+        <option value="$PROJECT_DIR$/saves/both L shape play.txt" />
+        <option value="$PROJECT_DIR$/saves/2x2 infinite play.txt" />
+        <option value="$PROJECT_DIR$/saves/2x2 and 1x4 infinite play.txt" />
+        <option value="$PROJECT_DIR$/saves/1 L shape play 2.txt" />
+        <option value="$PROJECT_DIR$/saves/1 L shape play.txt" />
+        <option value="$PROJECT_DIR$/MiscUtil.py" />
+        <option value="$PROJECT_DIR$/GuiController/GameGui.py" />
+        <option value="$PROJECT_DIR$/saves/save.txt" />
+        <option value="$PROJECT_DIR$/GuiController/Menu/SettingsGui.py" />
+        <option value="$PROJECT_DIR$/GuiController/SettingsGui.py" />
+        <option value="$PROJECT_DIR$/GuiController/Menu/Menu.py" />
+        <option value="$PROJECT_DIR$/settings.txt" />
+        <option value="$PROJECT_DIR$/GuiController/Menu/SimMenu.py" />
+        <option value="$PROJECT_DIR$/GuiController/Graph/Graph.py" />
+        <option value="$PROJECT_DIR$/GuiController/Graph/GraphHandler.py" />
+        <option value="$PROJECT_DIR$/TetrisGame/Tetris.py" />
+        <option value="$PROJECT_DIR$/SaveLoader.py" />
+        <option value="$PROJECT_DIR$/Settings.py" />
+        <option value="$PROJECT_DIR$/NeuralNet/NeuralNetHandler.py" />
+        <option value="$PROJECT_DIR$/GuiController/Menu/MenuHandlers/SimMenuHandler.py" />
+        <option value="$PROJECT_DIR$/GuiController/Menu/SettingsMenu.py" />
+        <option value="$PROJECT_DIR$/TetrisGame/CentralHandler.py" />
+        <option value="$PROJECT_DIR$/GuiController/Menu/InitMenu.py" />
+        <option value="$PROJECT_DIR$/NeuralNet/NeuralNet.py" />
+        <option value="$PROJECT_DIR$/Main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1258" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CS320_Individual_Assignment_Tetris_EvolveSim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS320_Individual_Assignment_Tetris_EvolveSim" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS320_Individual_Assignment_Tetris_EvolveSim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS320_Individual_Assignment_Tetris_EvolveSim" type="462c0819:PsiDirectoryNode" />
+              <item name="GuiController" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS320_Individual_Assignment_Tetris_EvolveSim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS320_Individual_Assignment_Tetris_EvolveSim" type="462c0819:PsiDirectoryNode" />
+              <item name="GuiController" type="462c0819:PsiDirectoryNode" />
+              <item name="Graph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS320_Individual_Assignment_Tetris_EvolveSim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS320_Individual_Assignment_Tetris_EvolveSim" type="462c0819:PsiDirectoryNode" />
+              <item name="GuiController" type="462c0819:PsiDirectoryNode" />
+              <item name="Menu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS320_Individual_Assignment_Tetris_EvolveSim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS320_Individual_Assignment_Tetris_EvolveSim" type="462c0819:PsiDirectoryNode" />
+              <item name="GuiController" type="462c0819:PsiDirectoryNode" />
+              <item name="Menu" type="462c0819:PsiDirectoryNode" />
+              <item name="MenuHandlers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS320_Individual_Assignment_Tetris_EvolveSim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS320_Individual_Assignment_Tetris_EvolveSim" type="462c0819:PsiDirectoryNode" />
+              <item name="NeuralNet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS320_Individual_Assignment_Tetris_EvolveSim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS320_Individual_Assignment_Tetris_EvolveSim" type="462c0819:PsiDirectoryNode" />
+              <item name="saves" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS320_Individual_Assignment_Tetris_EvolveSim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS320_Individual_Assignment_Tetris_EvolveSim" type="462c0819:PsiDirectoryNode" />
+              <item name="TetrisGame" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Owner\Python Programs\CS320_Individual_Assignment_Tetris_EvolveSim\GuiController" />
+      <recent name="C:\Users\Owner\Python Programs\CS320_Individual_Assignment_Tetris_EvolveSim\GuiControler\Graph" />
+      <recent name="C:\Users\Owner\Python Programs\CS320_Individual_Assignment_Tetris_EvolveSim\TetrisGame" />
+      <recent name="C:\Users\Owner\Python Programs\CS320_Individual_Assignment_Tetris_EvolveSim\GuiControler" />
+      <recent name="C:\Users\Owner\Python Programs\CS320_Individual_Assignment_Tetris_EvolveSim\WindowControler" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Main">
+    <configuration name="Main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CS320_Individual_Assignment_Tetris_EvolveSim" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CS320_Individual_Assignment_Tetris_EvolveSim" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+        <item itemvalue="Python.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a9eb3a3-5e23-484c-89b2-eacd3a0375ae" name="Default Changelist" comment="" />
+      <created>1548609000326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548609000326</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48947367" visible="true" weight="0.09220232" />
+      <window_info id="Favorites" order="1" sideWeight="0.5105263" side_tool="true" weight="0.09220232" />
+      <window_info id="Structure" order="2" sideWeight="0.5105263" side_tool="true" weight="0.09220232" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5021075" side_tool="true" weight="0.24593717" />
+      <window_info anchor="bottom" id="Python Console" order="2" weight="0.26218852" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49789253" weight="0.17659806" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.49947312" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49150142" visible="true" weight="0.09220232" />
+      <window_info id="Favorites" order="1" sideWeight="0.5084986" side_tool="true" weight="0.09220232" />
+      <window_info id="Structure" order="2" sideWeight="0.5084986" side_tool="true" weight="0.09220232" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5021075" side_tool="true" weight="0.24593717" />
+      <window_info anchor="bottom" id="Python Console" order="2" weight="0.26218852" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49789253" visible="true" weight="0.17659806" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.49947312" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/saves/500 gen save.txt" />
+    <entry file="file://$PROJECT_DIR$/saves/sim1.txt" />
+    <entry file="file://$PROJECT_DIR$/saves/rand seed sim 1.txt" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/threading.py" />
+    <entry file="file://$PROJECT_DIR$/saves/rand seed 2000 nets.txt" />
+    <entry file="file://$PROJECT_DIR$/saves/rand seed 1000 nets low mut.txt" />
+    <entry file="file://$PROJECT_DIR$/saves/rand seed 800 nets 10 games.txt" />
+    <entry file="file://$PROJECT_DIR$/saves/rand seed 300 nets.txt" />
+    <entry file="file://$PROJECT_DIR$/saves/rand seed rel inputs 10 games.txt" />
+    <entry file="file://$PROJECT_DIR$/saves/rand seed 10 games lowest fitness sorted.txt" />
+    <entry file="file://$PROJECT_DIR$/saves/long 4 set seeds.txt" />
+    <entry file="file://$PROJECT_DIR$/saves/both L shape play.txt" />
+    <entry file="file://$PROJECT_DIR$/saves/2x2 infinite play.txt" />
+    <entry file="file://$PROJECT_DIR$/saves/2x2 and 1x4 infinite play.txt" />
+    <entry file="file://$PROJECT_DIR$/saves/1 L shape play 2.txt" />
+    <entry file="file://$PROJECT_DIR$/saves/1 L shape play.txt" />
+    <entry file="file://$PROJECT_DIR$/MiscUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TetrisGame/TetrisHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="51" lean-forward="true" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/tkinter/__init__.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-562236379/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/saves/save.txt" />
+    <entry file="file://$PROJECT_DIR$/GuiController/Menu/Menu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saves/test123.txt" />
+    <entry file="file://$PROJECT_DIR$/saves/save123.txt" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="509" selection-start-line="509" selection-end-line="509" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saves/setSeedSave.txt" />
+    <entry file="file://$PROJECT_DIR$/MergeSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiController/Graph/GraphHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saves/tShapeDistInut.txt" />
+    <entry file="file://$PROJECT_DIR$/settings.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saves/splitSaveTest.txt" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="930" column="39" lean-forward="true" selection-start-line="930" selection-start-column="39" selection-end-line="930" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NeuralNet/NeuralNetHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="81" column="4" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiController/Menu/SettingsMenu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2301">
+          <caret line="1395" column="71" selection-start-line="1395" selection-start-column="71" selection-end-line="1395" selection-end-column="71" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TetrisGame/CentralHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiController/Graph/Graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saves/100rand.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiController/Menu/MenuHandlers/SimMenuHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="257" lean-forward="true" selection-start-line="257" selection-end-line="257" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TetrisGame/Tetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-681">
+          <caret line="218" selection-start-line="218" selection-end-line="218" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiController/Gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiController/GameGui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiController/MainGui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiController/Menu/SimMenu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="332" column="42" lean-forward="true" selection-start-line="332" selection-start-column="42" selection-end-line="332" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/genericpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5763">
+          <caret line="339" column="24" selection-start-line="339" selection-start-column="24" selection-end-line="339" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiController/SettingsGui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiController/Menu/InitMenu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NeuralNet/NeuralNet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="948" column="34" lean-forward="true" selection-start-line="948" selection-start-column="34" selection-end-line="948" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saves/linesAndSquares.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2207324" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SaveLoader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="145" column="26" lean-forward="true" selection-start-line="145" selection-start-column="26" selection-end-line="145" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
